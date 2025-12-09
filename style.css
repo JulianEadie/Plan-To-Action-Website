@@ -1,0 +1,22 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.center-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.header-img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.content-box {
+    padding: 30px;
+    background: white;
+    border-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
